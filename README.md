@@ -7,7 +7,7 @@
 <a href="https://codepen.io/am_vishal">
   <img align="left" alt="Vishal's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />
 </a>
-<a href="https://codepen.io/am_vishal">
+<a href="https://api.whatsapp.com/send?phone=918969885857">
   <img align="left"; letter-spacing:'1em'; alt="Vishal's WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />
 </a>
 <br />
