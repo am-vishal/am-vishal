@@ -19,7 +19,6 @@
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning React.JS, Redux and Data Structure; 
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Vishal](https://api.whatsapp.com/send?phone=918969885857)
 - 📝 [Resume](https://drive.google.com/file/d/17hA68cpJkps4xYHDIWpR7HkeP-ZJJEYq/view)
 - 🏆 Completed 11 Project so far.    
