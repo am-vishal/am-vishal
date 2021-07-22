@@ -15,11 +15,7 @@
 
 <b>I'm [Vishal](https://am-vishal.github.io/), a Front End Developer 🚀 from India.</b>
 
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Redux and Data Structure; 
-- 📫 How to reach me: [@Vishal](https://api.whatsapp.com/send?phone=918969885857)
+- 🌱 I’m currently learning MERN Stack; 
 - 📝 [Resume](https://drive.google.com/file/d/1mcYPvzfIkYGRvWiSVpciZ8yFtpUBCzNV/view?usp=sharing)
 - 🏆 My most of the projects are on github.    
 
