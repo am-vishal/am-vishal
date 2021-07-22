@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Redux and Data Structure; 
 - 📫 How to reach me: [@Vishal](https://api.whatsapp.com/send?phone=918969885857)
-- 📝 [Resume](https://drive.google.com/file/d/17hA68cpJkps4xYHDIWpR7HkeP-ZJJEYq/view)
+- 📝 [Resume](https://drive.google.com/file/d/1mcYPvzfIkYGRvWiSVpciZ8yFtpUBCzNV/view?usp=sharing)
 - 🏆 My most of the projects are on github.    
 
 **Languages and Tools:**  
