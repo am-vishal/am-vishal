@@ -16,12 +16,12 @@ const Header = () => {
             <Typography component="p">
               I am Vishal
               <span style={{margin: 'auto 6px', fontSize: '2.3vw'}}>|</span>
-              <span>Software Developer</span>
+              <span>Front-End Developer</span>
             </Typography>
           </Grid>
-          <Grid item xs={12} className={classes.rootGrid}>
+          {/* <Grid item xs={12} className={classes.rootGrid}>
             <Button>Know More</Button>
-          </Grid>
+          </Grid> */}
         </Grid>
       </div>
     </>

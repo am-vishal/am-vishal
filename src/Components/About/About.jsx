@@ -100,13 +100,10 @@ const About = () => {
               Vishal Kumar
             </Typography>
             <Typography align="center" variantMapping="p" style={{color: 'black'}}>
-              Hello, I am a front-end developer, I enjoy solving real-world problems with technology. I create static and dynamic websites,
+              Hello, I am a Front-End Developer, I enjoy solving real-world problems with technology. I create static and dynamic websites,
               but i love to create dynamic website because it can be change in future and that would be more prettier... I focus on the
               structure and design of web pages, striking a balance between functional and aesthetic design and ensuring web design is
-              optimized for difference difference devices. I'm always open to new challenges and opportunities. Use these below to get in
-              touch with me and I could be working on your next project Fast Fast load times and lag free interaction, my highest priority.
-              Responsive My layouts will work on any device, big or small. Intuitive Strong preference for easy to use, intuitive UX/UI.
-              Dynamic Websites don't have to be static, I love making pages come to life.
+              optimized for difference difference devices.
             </Typography>
             <Grid item xs={12} style={{display: 'grid', placeItems: 'center', marginBottom: '0.5vw'}}>
               <a
