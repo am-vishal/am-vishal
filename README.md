@@ -15,7 +15,7 @@
 
 <b>I'm [Vishal](https://am-vishal.github.io/), a Front End Developer 🚀 from India.</b>
 
-- 🌱 I’m currently learning MERN Stack; 
+- 🌱 I’m currently learning Backend Development; 
 - 📝 [Resume](https://drive.google.com/file/d/1mcYPvzfIkYGRvWiSVpciZ8yFtpUBCzNV/view?usp=sharing)
 - 🏆 My most of the projects are on github.    
 
