@@ -2,7 +2,7 @@ import {makeStyles} from '@material-ui/core/styles';
 
 const HeaderStyles = makeStyles(() => ({
   root: {
-    background: '#203647',
+    // background: '#203647',
     color: '#ffffff',
     display: 'grid',
     alignContent: 'center',
