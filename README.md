@@ -26,7 +26,9 @@
 <img align="left"  width="26px" alt="mongodb"  src="https://i.postimg.cc/qvM6Q4NR/GFz-P-5e-400x400.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img align="left" alt="MUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/mui.svg"/>
 <img align="left" alt="Styled-Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/>
 <img align="left" alt="Data Structure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/dsautomobiles.svg" />
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
