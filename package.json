@@ -1,21 +1,21 @@
 {
   "name": "vishal-portfolio",
+  "homepage": "https://am-vishal.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-particles": "^2.9.3",
-    "react-router": "^6.8.1",
     "react-scripts": "5.0.1",
-    "react-tabs": "^6.0.0",
-    "tsparticles-engine": "^2.9.3"
+    "react-tabs": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
