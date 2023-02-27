@@ -1,6 +1,5 @@
 Vishal Kumar
 Software Engineer
-8969885857 | amvishal09@outlook.com
 LinkedIn | Github
 
 A skilled software engineer with experience in building web applications using ReactJS, Bootstrap, and Material-UI. Proven ability to collaborate with cross-functional teams to deliver high-quality products. Seeking a challenging role to contribute my technical expertise and domain knowledge.
