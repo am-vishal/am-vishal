@@ -14,8 +14,8 @@
 
 <b>I'm [Vishal](https://am-vishal.github.io/), a Full-Stack Developer 🚀 from Bengaluru, India.</b>
 
-- 🌱 I’m currently learning System Design and Advance Redux.
-- 👨‍💻 Working on ERP Software & Building Major Personal-Project(end-to-end)
+- 🌱 I’m currently learning Java and Testing.
+- 👨‍💻 Working on Web Application & Building a Major Project(end-to-end)
 
 **Languages and Tools:**  
 
